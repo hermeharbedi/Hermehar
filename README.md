@@ -27,13 +27,7 @@ I’m a passionate researcher and developer exploring **Emerging Technologies** 
 
 - 🧠 Artificial Intelligence & Machine Learning
 - 🌐 Extended Reality
-- 🧩 Generative and Human Centered AI
-
-### 🏆 Achievements  
-
-- 🥇 **Showcased by Stanford University** for exceptional project in AI and Healthcare  
-- 🔭 **Published Research** spanning *AI, Image Processing, and Intelligent Systems*  
-- 🧩 **Mentored** undergraduate students in coding and research initiatives  
+- 🧩 Generative and Human Centered AI 
 
 ---
 
