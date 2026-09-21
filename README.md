@@ -8,7 +8,13 @@
 
 ### 🚀 About Me  
 
-I’m a passionate researcher and developer exploring **Emerging Technologies** to craft real-world solutions with meaningful impact. My current research work bridges **GenAI, XR, and Architecture**, driven by curiosity, creativity, and a commitment to innovation.  
+I am working at the intersection of Generative AI, Human-AI Interaction, and Immersive Computing.
+
+My research focuses on developing **controllable and human-centered generative AI systems** that can transform high-level human intent and constraints into structured, meaningful outputs. My PhD research particularly explores **Generative AI for spatial and architectural reasoning**, investigating how generative models such as GANs and diffusion models can synthesize floorplans from minimal user specifications while maintaining structural and semantic constraints.
+
+More broadly, my work explores how **Generative AI can move beyond content generation toward interactive systems that collaborate with humans**. This includes research on constraint-aware generation, human-in-the-loop interaction, multimodal AI, and AI-assisted spatial reasoning, with **Virtual Reality serving as an immersive interface for human-AI collaboration**.
+
+I am particularly interested in building Human-Centered Generative AI systems where AI provides generative capabilities while humans retain control over intent, refinement, and decision-making.
 
 ---
 
