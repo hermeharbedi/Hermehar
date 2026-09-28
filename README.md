@@ -39,7 +39,7 @@ I am particularly interested in building Human-Centered Generative AI systems wh
 
 ### 📫 Let’s Connect  
 
-- 🌍 **Website:** https://sites.google.com/iiitd.ac.in/hermeharbedi
+- 🌍 **Website:** https://hermeharbedi.github.io/
 - 💼 **LinkedIn:** https://www.linkedin.com/in/hermeharbedi/  
 - 📧 **Email:** hermeharbedi@gmail.com  
 
